@@ -1,0 +1,29 @@
+[33mcommit f685df48df1a8b34ee8f557dd78237a7f091b356[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Kevin <kcliu8331@gmail.com>
+Date:   Sat Mar 18 13:15:54 2023 -0400
+
+    Fixed merge conflict
+
+[33mcommit e0d232aeb1d760c2cd3dc5fab04666b4a0873ae5[m
+Author: kevcliu2 <108379530+kevcliu2@users.noreply.github.com>
+Date:   Sat Mar 18 13:10:27 2023 -0400
+
+    merge conflict
+
+[33mcommit ffc51fb296cd74dfe2f72cca707ee023c8965bc2[m
+Author: Kevin <kcliu8331@gmail.com>
+Date:   Fri Mar 17 19:45:11 2023 -0400
+
+    testing git commit -am
+
+[33mcommit 2b15173ee12c5562b5965287b597924255aef55b[m
+Author: Kevin <kcliu8331@gmail.com>
+Date:   Fri Mar 17 19:43:21 2023 -0400
+
+    Added header
+
+[33mcommit a0a17c0ab178fb8f9950bb2df36c007b2f9d7265[m
+Author: Kevin <kcliu8331@gmail.com>
+Date:   Fri Mar 17 19:37:21 2023 -0400
+
+    first commit
